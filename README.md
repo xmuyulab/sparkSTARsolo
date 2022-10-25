@@ -14,7 +14,7 @@ a Spark-based distributed version of STARsolo
 
 #### GUI (Platform) -- demo version
 
-![image-20221025112918601](C:\Users\77899\AppData\Roaming\Typora\typora-user-images\image-20221025112918601.png)
+![image-20221025112918601](https://github.com/Rikin04/sparkSTARsolo/tree/main/bin/platform-demo.png)
 
 #### CMD -- Experimental version
 
