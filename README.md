@@ -14,7 +14,7 @@ a Spark-based distributed version of STARsolo
 
 #### GUI (Platform) -- demo version
 
-![demo](https://github.com/Rikin04/sparkSTARsolo/tree/main/bin/platform-demo.png)
+![demo](bin/platform-demo.png)
 
 #### CMD -- Experimental version
 
