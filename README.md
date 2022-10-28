@@ -12,7 +12,7 @@ a Spark-based distributed version of STARsolo
 
 ### Example
 
-#### GUI (Platform) -- demo version
+#### GUI (Platform) -- Demo version
 
 ![demo](bin/platform-demo.png)
 
