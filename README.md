@@ -18,7 +18,7 @@ a Spark-based distributed version of STARsolo
 
 #### CMD -- Experimental version
 
-First, set spark's environment
+First, set spark's environment\n
 Next, set the parameters in run.sh and run
 ```shell
 spark_master=spark://127.0.0.1:7077
