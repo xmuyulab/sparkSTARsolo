@@ -18,10 +18,10 @@ a Spark-based distributed version of STARsolo
 
 #### CMD -- Experimental version
 
-First, set the parameters in run.sh
-
+First, set spark's environment
+Next, set the parameters in run.sh and run
 ```shell
-spark_master=spark://10.24.80.103:7077
+spark_master=spark://127.0.0.1:7077
 executor_memory=64G
 executor_cores=16
 driver_memory=32G
@@ -46,7 +46,6 @@ total_executor_cores=64
     -soloUMIlen 12 \
     -output hdfs:///data/pbmc_human/64cores \
 ```
-
 ```
 chmod +x run.sh
 ./run.sh
